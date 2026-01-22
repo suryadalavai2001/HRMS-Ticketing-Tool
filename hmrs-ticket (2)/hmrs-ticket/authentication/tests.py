@@ -11,10 +11,6 @@ from .models import Permission, UserPermission
 User = get_user_model()
 
 
-# =========================
-# MODEL TESTS
-# =========================
-
 class AuthenticationModelTests(TestCase):
     """
     Test cases for authentication models.
@@ -49,10 +45,6 @@ class AuthenticationModelTests(TestCase):
         self.assertEqual(user_perm.user, self.user)
         self.assertEqual(user_perm.permission, self.permission)
 
-
-# =========================
-# JWT AUTH TESTS (NO LOGIN)
-# =========================
 
 class JWTAuthenticationTests(APITestCase):
     """
@@ -106,9 +98,6 @@ class JWTAuthenticationTests(APITestCase):
         self.assertEqual(response.status_code, status.HTTP_403_FORBIDDEN)
 
 
-# =========================
-# PERMISSION TESTS
-# =========================
 
 class PermissionTests(APITestCase):
     """
