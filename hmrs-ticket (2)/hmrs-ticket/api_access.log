@@ -1,0 +1,427 @@
+INFO 2026-01-21 14:10:31,015 middleware 9424 4352 API REQUEST: POST /api/auth/login/
+INFO 2026-01-21 14:10:31,016 middleware 9424 4352   User: Anonymous (ID: None)
+INFO 2026-01-21 14:10:31,016 middleware 9424 4352   Email: N/A
+INFO 2026-01-21 14:10:31,017 middleware 9424 4352   Permissions: 0 permissions
+INFO 2026-01-21 14:10:31,018 middleware 9424 4352   IP Address: 127.0.0.1
+INFO 2026-01-21 14:10:31,018 middleware 9424 4352   User Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.7462
+INFO 2026-01-21 14:10:31,522 middleware 9424 4352   User: Anonymous | Response Size: 2449 bytes
+INFO 2026-01-21 14:10:31,522 middleware 9424 4352 --------------------------------------------------------------------------------
+INFO 2026-01-21 14:10:46,447 middleware 9424 4352 API REQUEST: GET /api/auth/stats/
+INFO 2026-01-21 14:10:46,448 middleware 9424 4352   User: Anonymous (ID: None)
+INFO 2026-01-21 14:10:46,448 middleware 9424 4352   Email: N/A
+INFO 2026-01-21 14:10:46,448 middleware 9424 4352   Permissions: 0 permissions
+INFO 2026-01-21 14:10:46,449 middleware 9424 4352   IP Address: 127.0.0.1
+INFO 2026-01-21 14:10:46,449 middleware 9424 4352   User Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.7462
+INFO 2026-01-21 14:10:46,478 middleware 9424 4352   User: Anonymous | Response Size: 3196 bytes
+INFO 2026-01-21 14:10:46,478 middleware 9424 4352 --------------------------------------------------------------------------------
+INFO 2026-01-21 14:10:57,360 middleware 9424 4352 API REQUEST: GET /api/auth/stats/
+INFO 2026-01-21 14:10:57,361 middleware 9424 4352   User: Anonymous (ID: None)
+INFO 2026-01-21 14:10:57,361 middleware 9424 4352   Email: N/A
+INFO 2026-01-21 14:10:57,361 middleware 9424 4352   Permissions: 0 permissions
+INFO 2026-01-21 14:10:57,361 middleware 9424 4352   IP Address: 127.0.0.1
+INFO 2026-01-21 14:10:57,362 middleware 9424 4352   User Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.7462
+INFO 2026-01-21 14:10:57,387 middleware 9424 4352   User: Anonymous | Response Size: 3196 bytes
+INFO 2026-01-21 14:10:57,387 middleware 9424 4352 --------------------------------------------------------------------------------
+INFO 2026-01-21 14:11:11,282 middleware 9424 4352 API REQUEST: POST /api/auth/login/
+INFO 2026-01-21 14:11:11,282 middleware 9424 4352   User: Anonymous (ID: None)
+INFO 2026-01-21 14:11:11,283 middleware 9424 4352   Email: N/A
+INFO 2026-01-21 14:11:11,283 middleware 9424 4352   Permissions: 0 permissions
+INFO 2026-01-21 14:11:11,283 middleware 9424 4352   IP Address: 127.0.0.1
+INFO 2026-01-21 14:11:11,283 middleware 9424 4352   User Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.7462
+INFO 2026-01-21 14:11:11,729 middleware 9424 4352   User: Anonymous | Response Size: 2449 bytes
+INFO 2026-01-21 14:11:11,729 middleware 9424 4352 --------------------------------------------------------------------------------
+INFO 2026-01-21 14:11:11,731 middleware 9424 4352 API REQUEST: GET /api/auth/test/
+INFO 2026-01-21 14:11:11,731 middleware 9424 4352   User: admin (ID: 1)
+INFO 2026-01-21 14:11:11,731 middleware 9424 4352   Email: admin@company.com
+INFO 2026-01-21 14:11:11,732 middleware 9424 4352   Permissions: 29 permissions
+INFO 2026-01-21 14:11:11,732 middleware 9424 4352   IP Address: 127.0.0.1
+INFO 2026-01-21 14:11:11,732 middleware 9424 4352   User Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.7462
+INFO 2026-01-21 14:11:11,732 middleware 9424 4352   User Permissions: can_assign_permissions, can_assign_tickets, can_backup_system, can_create_tickets, can_create_users...
+INFO 2026-01-21 14:11:11,740 middleware 9424 4352   User: admin | Response Size: 66 bytes
+INFO 2026-01-21 14:11:11,740 middleware 9424 4352 --------------------------------------------------------------------------------
+INFO 2026-01-21 14:12:03,043 middleware 9424 5420 API REQUEST: GET /api/auth/stats/
+INFO 2026-01-21 14:12:03,044 middleware 9424 5420   User: Anonymous (ID: None)
+INFO 2026-01-21 14:12:03,044 middleware 9424 5420   Email: N/A
+INFO 2026-01-21 14:12:03,045 middleware 9424 5420   Permissions: 0 permissions
+INFO 2026-01-21 14:12:03,045 middleware 9424 5420   IP Address: 127.0.0.1
+INFO 2026-01-21 14:12:03,046 middleware 9424 5420   User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Sa
+INFO 2026-01-21 14:12:03,118 middleware 9424 5420   User: Anonymous | Response Size: 3308 bytes
+INFO 2026-01-21 14:12:03,120 middleware 9424 5420 --------------------------------------------------------------------------------
+INFO 2026-01-21 18:18:17,930 middleware 6736 10996 API REQUEST: POST /api/auth/login/
+INFO 2026-01-21 18:18:17,932 middleware 6736 10996   User: Anonymous (ID: None)
+INFO 2026-01-21 18:18:17,933 middleware 6736 10996   Email: N/A
+INFO 2026-01-21 18:18:17,933 middleware 6736 10996   Permissions: 0 permissions
+INFO 2026-01-21 18:18:17,934 middleware 6736 10996   IP Address: 127.0.0.1
+INFO 2026-01-21 18:18:17,934 middleware 6736 10996   User Agent: Thunder Client (https://www.thunderclient.com)
+INFO 2026-01-21 18:18:18,462 middleware 6736 10996   User: Anonymous | Response Size: 81 bytes
+WARNING 2026-01-21 18:18:18,464 middleware 6736 10996   Error Response: {"error":"Login disabled","message":"Use HRMS login. Ticketing trusts JWT only."}...
+INFO 2026-01-21 18:18:18,464 middleware 6736 10996 --------------------------------------------------------------------------------
+INFO 2026-01-21 18:33:00,085 middleware 6736 17836 API REQUEST: GET /api/auth/login/
+INFO 2026-01-21 18:33:00,091 middleware 6736 17836   User: Anonymous (ID: None)
+INFO 2026-01-21 18:33:00,092 middleware 6736 17836   Email: N/A
+INFO 2026-01-21 18:33:00,093 middleware 6736 17836   Permissions: 0 permissions
+INFO 2026-01-21 18:33:00,093 middleware 6736 17836   IP Address: 127.0.0.1
+INFO 2026-01-21 18:33:00,095 middleware 6736 17836   User Agent: Thunder Client (https://www.thunderclient.com)
+INFO 2026-01-21 18:33:00,278 middleware 6736 17836   User: Anonymous | Response Size: 40 bytes
+WARNING 2026-01-21 18:33:00,279 middleware 6736 17836   Error Response: {"detail":"Method \"GET\" not allowed."}...
+INFO 2026-01-21 18:33:00,279 middleware 6736 17836 --------------------------------------------------------------------------------
+INFO 2026-01-21 18:33:10,907 middleware 6736 12392 API REQUEST: GET /api/auth/test/
+INFO 2026-01-21 18:33:10,908 middleware 6736 12392   User: Anonymous (ID: None)
+INFO 2026-01-21 18:33:10,908 middleware 6736 12392   Email: N/A
+INFO 2026-01-21 18:33:10,909 middleware 6736 12392   Permissions: 0 permissions
+INFO 2026-01-21 18:33:10,910 middleware 6736 12392   IP Address: 127.0.0.1
+INFO 2026-01-21 18:33:10,911 middleware 6736 12392   User Agent: Thunder Client (https://www.thunderclient.com)
+INFO 2026-01-21 18:33:11,341 middleware 6736 12392   User: Anonymous | Response Size: 183 bytes
+WARNING 2026-01-21 18:33:11,342 middleware 6736 12392   Error Response: {"detail":"Given token not valid for any token type","code":"token_not_valid","messages":[{"token_class":"AccessToken","token_type":"access","message":"Token is invalid or expired"}]}...
+INFO 2026-01-21 18:33:11,344 middleware 6736 12392 --------------------------------------------------------------------------------
+INFO 2026-01-21 19:03:12,935 middleware 6736 11728 API REQUEST: POST /api/auth/login/
+INFO 2026-01-21 19:03:12,953 middleware 6736 11728   User: Anonymous (ID: None)
+INFO 2026-01-21 19:03:12,953 middleware 6736 11728   Email: N/A
+INFO 2026-01-21 19:03:12,954 middleware 6736 11728   Permissions: 0 permissions
+INFO 2026-01-21 19:03:12,955 middleware 6736 11728   IP Address: 127.0.0.1
+INFO 2026-01-21 19:03:12,956 middleware 6736 11728   User Agent: Thunder Client (https://www.thunderclient.com)
+INFO 2026-01-21 19:03:13,003 middleware 6736 11728   User: Anonymous | Response Size: 81 bytes
+WARNING 2026-01-21 19:03:13,003 middleware 6736 11728   Error Response: {"error":"Login disabled","message":"Use HRMS login. Ticketing trusts JWT only."}...
+INFO 2026-01-21 19:03:13,005 middleware 6736 11728 --------------------------------------------------------------------------------
+INFO 2026-01-21 19:04:00,409 middleware 6736 5492 API REQUEST: GET /api/auth/test/
+INFO 2026-01-21 19:04:00,410 middleware 6736 5492   User: Anonymous (ID: None)
+INFO 2026-01-21 19:04:00,411 middleware 6736 5492   Email: N/A
+INFO 2026-01-21 19:04:00,412 middleware 6736 5492   Permissions: 0 permissions
+INFO 2026-01-21 19:04:00,412 middleware 6736 5492   IP Address: 127.0.0.1
+INFO 2026-01-21 19:04:00,414 middleware 6736 5492   User Agent: Thunder Client (https://www.thunderclient.com)
+INFO 2026-01-21 19:04:00,542 middleware 6736 5492   User: Anonymous | Response Size: 183 bytes
+WARNING 2026-01-21 19:04:00,542 middleware 6736 5492   Error Response: {"detail":"Given token not valid for any token type","code":"token_not_valid","messages":[{"token_class":"AccessToken","token_type":"access","message":"Token is invalid or expired"}]}...
+INFO 2026-01-21 19:04:00,544 middleware 6736 5492 --------------------------------------------------------------------------------
+INFO 2026-01-22 14:31:58,863 middleware 9188 16540 API REQUEST: GET /api/tickets/
+INFO 2026-01-22 14:31:58,890 middleware 9188 16540   User: Anonymous (ID: None)
+INFO 2026-01-22 14:31:58,891 middleware 9188 16540   Email: N/A
+INFO 2026-01-22 14:31:58,892 middleware 9188 16540   Permissions: 0 permissions
+INFO 2026-01-22 14:31:58,892 middleware 9188 16540   IP Address: 127.0.0.1
+INFO 2026-01-22 14:31:58,894 middleware 9188 16540   User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Sa
+INFO 2026-01-22 14:32:00,376 middleware 9188 16540   User: Anonymous | Response Size: 2230 bytes
+WARNING 2026-01-22 14:32:00,382 middleware 9188 16540   Error Response: <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Page not found at /api/tickets/</title>
+  <meta name="robots" content="NONE,NOARC...
+INFO 2026-01-22 14:32:00,389 middleware 9188 16540 --------------------------------------------------------------------------------
+INFO 2026-01-22 14:32:00,662 middleware 9188 16540 API REQUEST: GET /api/tickets/
+INFO 2026-01-22 14:32:00,665 middleware 9188 16540   User: Anonymous (ID: None)
+INFO 2026-01-22 14:32:00,667 middleware 9188 16540   Email: N/A
+INFO 2026-01-22 14:32:00,668 middleware 9188 16540   Permissions: 0 permissions
+INFO 2026-01-22 14:32:00,671 middleware 9188 16540   IP Address: 127.0.0.1
+INFO 2026-01-22 14:32:00,671 middleware 9188 16540   User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Sa
+INFO 2026-01-22 14:32:00,746 middleware 9188 16540   User: Anonymous | Response Size: 2230 bytes
+WARNING 2026-01-22 14:32:00,747 middleware 9188 16540   Error Response: <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Page not found at /api/tickets/</title>
+  <meta name="robots" content="NONE,NOARC...
+INFO 2026-01-22 14:32:00,747 middleware 9188 16540 --------------------------------------------------------------------------------
+INFO 2026-01-22 14:59:09,115 middleware 16752 4992 API REQUEST: GET /api/tickets/
+INFO 2026-01-22 14:59:09,127 middleware 16752 4992   User: abc (ID: 4)
+INFO 2026-01-22 14:59:09,212 middleware 16752 4992   Email: abc@gmail.com
+INFO 2026-01-22 14:59:09,224 middleware 16752 4992   Permissions: 0 permissions
+INFO 2026-01-22 14:59:09,276 middleware 16752 4992   IP Address: 127.0.0.1
+INFO 2026-01-22 14:59:09,277 middleware 16752 4992   User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Sa
+INFO 2026-01-22 14:59:09,515 middleware 16752 4992   User: Anonymous | Response Size: 58 bytes
+WARNING 2026-01-22 14:59:09,516 middleware 16752 4992   Error Response: {"detail":"Authentication credentials were not provided."}...
+INFO 2026-01-22 14:59:09,516 middleware 16752 4992 --------------------------------------------------------------------------------
+INFO 2026-01-22 15:00:33,159 middleware 11320 16252 API REQUEST: GET /api/tickets/
+INFO 2026-01-22 15:00:33,163 middleware 11320 16252   User: abc (ID: 4)
+INFO 2026-01-22 15:00:33,166 middleware 11320 16252   Email: abc@gmail.com
+INFO 2026-01-22 15:00:33,170 middleware 11320 16252   Permissions: 0 permissions
+INFO 2026-01-22 15:00:33,224 middleware 11320 16252   IP Address: 127.0.0.1
+INFO 2026-01-22 15:00:33,293 middleware 11320 16252   User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Sa
+INFO 2026-01-22 15:00:34,170 middleware 11320 16252   User: Anonymous | Response Size: 431 bytes
+INFO 2026-01-22 15:00:34,171 middleware 11320 16252 --------------------------------------------------------------------------------
+INFO 2026-01-22 15:01:16,984 middleware 11320 3112 API REQUEST: GET /api/tickets/
+INFO 2026-01-22 15:01:16,985 middleware 11320 3112   User: Anonymous (ID: None)
+INFO 2026-01-22 15:01:16,985 middleware 11320 3112   Email: N/A
+INFO 2026-01-22 15:01:16,987 middleware 11320 3112   Permissions: 0 permissions
+INFO 2026-01-22 15:01:16,987 middleware 11320 3112   IP Address: 127.0.0.1
+INFO 2026-01-22 15:01:16,988 middleware 11320 3112   User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Sa
+INFO 2026-01-22 15:01:17,130 middleware 11320 3112   User: Anonymous | Response Size: 431 bytes
+INFO 2026-01-22 15:01:17,131 middleware 11320 3112 --------------------------------------------------------------------------------
+INFO 2026-01-22 15:01:17,251 middleware 11320 3112 API REQUEST: GET /api/tickets/
+INFO 2026-01-22 15:01:17,395 middleware 11320 3112   User: Anonymous (ID: None)
+INFO 2026-01-22 15:01:17,396 middleware 11320 3112   Email: N/A
+INFO 2026-01-22 15:01:17,397 middleware 11320 3112   Permissions: 0 permissions
+INFO 2026-01-22 15:01:17,456 middleware 11320 3112   IP Address: 127.0.0.1
+INFO 2026-01-22 15:01:17,466 middleware 11320 3112   User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Sa
+INFO 2026-01-22 15:01:17,813 middleware 11320 3112   User: Anonymous | Response Size: 431 bytes
+INFO 2026-01-22 15:01:17,822 middleware 11320 3112 --------------------------------------------------------------------------------
+INFO 2026-01-22 15:01:18,403 middleware 11320 3112 API REQUEST: GET /api/tickets/
+INFO 2026-01-22 15:01:18,403 middleware 11320 3112   User: Anonymous (ID: None)
+INFO 2026-01-22 15:01:18,404 middleware 11320 3112   Email: N/A
+INFO 2026-01-22 15:01:18,405 middleware 11320 3112   Permissions: 0 permissions
+INFO 2026-01-22 15:01:18,405 middleware 11320 3112   IP Address: 127.0.0.1
+INFO 2026-01-22 15:01:18,407 middleware 11320 3112   User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Sa
+INFO 2026-01-22 15:01:18,594 middleware 11320 3112   User: Anonymous | Response Size: 431 bytes
+INFO 2026-01-22 15:01:18,600 middleware 11320 3112 --------------------------------------------------------------------------------
+INFO 2026-01-22 15:01:18,650 middleware 11320 3112 API REQUEST: GET /api/tickets/
+INFO 2026-01-22 15:01:18,688 middleware 11320 3112   User: Anonymous (ID: None)
+INFO 2026-01-22 15:01:18,690 middleware 11320 3112   Email: N/A
+INFO 2026-01-22 15:01:18,736 middleware 11320 3112   Permissions: 0 permissions
+INFO 2026-01-22 15:01:18,739 middleware 11320 3112   IP Address: 127.0.0.1
+INFO 2026-01-22 15:01:18,741 middleware 11320 3112   User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Sa
+INFO 2026-01-22 15:01:19,244 middleware 11320 3112   User: Anonymous | Response Size: 431 bytes
+INFO 2026-01-22 15:01:19,343 middleware 11320 3112 --------------------------------------------------------------------------------
+INFO 2026-01-22 15:01:19,926 middleware 11320 3112 API REQUEST: GET /api/tickets/
+INFO 2026-01-22 15:01:19,931 middleware 11320 3112   User: Anonymous (ID: None)
+INFO 2026-01-22 15:01:19,932 middleware 11320 3112   Email: N/A
+INFO 2026-01-22 15:01:19,936 middleware 11320 3112   Permissions: 0 permissions
+INFO 2026-01-22 15:01:19,941 middleware 11320 3112   IP Address: 127.0.0.1
+INFO 2026-01-22 15:01:19,978 middleware 11320 3112   User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Sa
+INFO 2026-01-22 15:01:20,067 middleware 11320 3112   User: Anonymous | Response Size: 431 bytes
+INFO 2026-01-22 15:01:20,096 middleware 11320 3112 --------------------------------------------------------------------------------
+INFO 2026-01-22 15:01:20,116 middleware 11320 3112 API REQUEST: GET /api/tickets/
+INFO 2026-01-22 15:01:20,117 middleware 11320 3112   User: Anonymous (ID: None)
+INFO 2026-01-22 15:01:20,118 middleware 11320 3112   Email: N/A
+INFO 2026-01-22 15:01:20,119 middleware 11320 3112   Permissions: 0 permissions
+INFO 2026-01-22 15:01:20,123 middleware 11320 3112   IP Address: 127.0.0.1
+INFO 2026-01-22 15:01:20,125 middleware 11320 3112   User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Sa
+INFO 2026-01-22 15:01:20,283 middleware 11320 3112   User: Anonymous | Response Size: 431 bytes
+INFO 2026-01-22 15:01:20,283 middleware 11320 3112 --------------------------------------------------------------------------------
+INFO 2026-01-22 15:01:21,216 middleware 11320 3112 API REQUEST: GET /api/tickets/
+INFO 2026-01-22 15:01:21,219 middleware 11320 3112   User: Anonymous (ID: None)
+INFO 2026-01-22 15:01:21,220 middleware 11320 3112   Email: N/A
+INFO 2026-01-22 15:01:21,221 middleware 11320 3112   Permissions: 0 permissions
+INFO 2026-01-22 15:01:21,225 middleware 11320 3112   IP Address: 127.0.0.1
+INFO 2026-01-22 15:01:21,228 middleware 11320 3112   User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Sa
+INFO 2026-01-22 15:01:21,357 middleware 11320 3112   User: Anonymous | Response Size: 431 bytes
+INFO 2026-01-22 15:01:21,358 middleware 11320 3112 --------------------------------------------------------------------------------
+INFO 2026-01-22 15:01:21,366 middleware 11320 3112 API REQUEST: GET /api/tickets/
+INFO 2026-01-22 15:01:21,368 middleware 11320 3112   User: Anonymous (ID: None)
+INFO 2026-01-22 15:01:21,386 middleware 11320 3112   Email: N/A
+INFO 2026-01-22 15:01:21,387 middleware 11320 3112   Permissions: 0 permissions
+INFO 2026-01-22 15:01:21,387 middleware 11320 3112   IP Address: 127.0.0.1
+INFO 2026-01-22 15:01:21,398 middleware 11320 3112   User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Sa
+INFO 2026-01-22 15:01:21,735 middleware 11320 3112   User: Anonymous | Response Size: 431 bytes
+INFO 2026-01-22 15:01:21,740 middleware 11320 3112 --------------------------------------------------------------------------------
+INFO 2026-01-22 15:01:43,586 middleware 11320 14516 API REQUEST: GET /api/tickets/
+INFO 2026-01-22 15:01:43,588 middleware 11320 14516   User: Anonymous (ID: None)
+INFO 2026-01-22 15:01:43,589 middleware 11320 14516   Email: N/A
+INFO 2026-01-22 15:01:43,590 middleware 11320 14516   Permissions: 0 permissions
+INFO 2026-01-22 15:01:43,591 middleware 11320 14516   IP Address: 127.0.0.1
+INFO 2026-01-22 15:01:43,592 middleware 11320 14516   User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Sa
+INFO 2026-01-22 15:01:43,997 middleware 11320 4240 API REQUEST: GET /api/tickets/
+INFO 2026-01-22 15:01:44,001 middleware 11320 14516   User: Anonymous | Response Size: 431 bytes
+INFO 2026-01-22 15:01:44,002 middleware 11320 4240   User: Anonymous (ID: None)
+INFO 2026-01-22 15:01:44,002 middleware 11320 14516 --------------------------------------------------------------------------------
+INFO 2026-01-22 15:01:44,003 middleware 11320 4240   Email: N/A
+INFO 2026-01-22 15:01:44,010 middleware 11320 4240   Permissions: 0 permissions
+INFO 2026-01-22 15:01:44,015 middleware 11320 4240   IP Address: 127.0.0.1
+INFO 2026-01-22 15:01:44,016 middleware 11320 4240   User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Sa
+INFO 2026-01-22 15:01:44,427 middleware 11320 9236 API REQUEST: GET /api/tickets/
+INFO 2026-01-22 15:01:44,690 middleware 11320 4240   User: Anonymous | Response Size: 431 bytes
+INFO 2026-01-22 15:01:44,691 middleware 11320 9236   User: Anonymous (ID: None)
+INFO 2026-01-22 15:01:44,691 middleware 11320 4240 --------------------------------------------------------------------------------
+INFO 2026-01-22 15:01:44,692 middleware 11320 9236   Email: N/A
+INFO 2026-01-22 15:01:44,693 middleware 11320 9236   Permissions: 0 permissions
+INFO 2026-01-22 15:01:44,833 middleware 11320 9236   IP Address: 127.0.0.1
+INFO 2026-01-22 15:01:44,836 middleware 11320 9236   User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Sa
+INFO 2026-01-22 15:01:45,112 middleware 11320 9236   User: Anonymous | Response Size: 431 bytes
+INFO 2026-01-22 15:01:45,113 middleware 11320 9236 --------------------------------------------------------------------------------
+INFO 2026-01-22 15:01:45,121 middleware 11320 9236 API REQUEST: GET /api/tickets/
+INFO 2026-01-22 15:01:45,122 middleware 11320 9236   User: Anonymous (ID: None)
+INFO 2026-01-22 15:01:45,122 middleware 11320 9236   Email: N/A
+INFO 2026-01-22 15:01:45,123 middleware 11320 9236   Permissions: 0 permissions
+INFO 2026-01-22 15:01:45,123 middleware 11320 9236   IP Address: 127.0.0.1
+INFO 2026-01-22 15:01:45,125 middleware 11320 9236   User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Sa
+INFO 2026-01-22 15:01:45,248 middleware 11320 9236   User: Anonymous | Response Size: 431 bytes
+INFO 2026-01-22 15:01:45,253 middleware 11320 9236 --------------------------------------------------------------------------------
+INFO 2026-01-22 15:01:49,009 middleware 11320 9236 API REQUEST: GET /api/tickets/
+INFO 2026-01-22 15:01:49,010 middleware 11320 9236   User: Anonymous (ID: None)
+INFO 2026-01-22 15:01:49,010 middleware 11320 9236   Email: N/A
+INFO 2026-01-22 15:01:49,011 middleware 11320 9236   Permissions: 0 permissions
+INFO 2026-01-22 15:01:49,012 middleware 11320 9236   IP Address: 127.0.0.1
+INFO 2026-01-22 15:01:49,012 middleware 11320 9236   User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Sa
+INFO 2026-01-22 15:01:49,284 middleware 11320 9236   User: Anonymous | Response Size: 431 bytes
+INFO 2026-01-22 15:01:49,317 middleware 11320 9236 --------------------------------------------------------------------------------
+INFO 2026-01-22 15:01:49,338 middleware 11320 9236 API REQUEST: GET /api/tickets/
+INFO 2026-01-22 15:01:49,341 middleware 11320 9236   User: Anonymous (ID: None)
+INFO 2026-01-22 15:01:49,342 middleware 11320 9236   Email: N/A
+INFO 2026-01-22 15:01:49,343 middleware 11320 9236   Permissions: 0 permissions
+INFO 2026-01-22 15:01:49,343 middleware 11320 9236   IP Address: 127.0.0.1
+INFO 2026-01-22 15:01:49,344 middleware 11320 9236   User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Sa
+INFO 2026-01-22 15:01:49,528 middleware 11320 9236   User: Anonymous | Response Size: 431 bytes
+INFO 2026-01-22 15:01:49,528 middleware 11320 9236 --------------------------------------------------------------------------------
+INFO 2026-01-22 15:01:50,039 middleware 11320 9236 API REQUEST: GET /api/tickets/
+INFO 2026-01-22 15:01:50,045 middleware 11320 9236   User: Anonymous (ID: None)
+INFO 2026-01-22 15:01:50,108 middleware 11320 9236   Email: N/A
+INFO 2026-01-22 15:01:50,110 middleware 11320 9236   Permissions: 0 permissions
+INFO 2026-01-22 15:01:50,112 middleware 11320 9236   IP Address: 127.0.0.1
+INFO 2026-01-22 15:01:50,114 middleware 11320 9236   User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Sa
+INFO 2026-01-22 15:01:50,742 middleware 11320 9236   User: Anonymous | Response Size: 431 bytes
+INFO 2026-01-22 15:01:50,744 middleware 11320 9236 --------------------------------------------------------------------------------
+INFO 2026-01-22 15:01:50,875 middleware 11320 9236 API REQUEST: GET /api/tickets/
+INFO 2026-01-22 15:01:50,880 middleware 11320 9236   User: Anonymous (ID: None)
+INFO 2026-01-22 15:01:50,883 middleware 11320 9236   Email: N/A
+INFO 2026-01-22 15:01:50,888 middleware 11320 9236   Permissions: 0 permissions
+INFO 2026-01-22 15:01:50,895 middleware 11320 9236   IP Address: 127.0.0.1
+INFO 2026-01-22 15:01:50,897 middleware 11320 9236   User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Sa
+INFO 2026-01-22 15:01:51,284 middleware 11320 9236   User: Anonymous | Response Size: 431 bytes
+INFO 2026-01-22 15:01:51,284 middleware 11320 9236 --------------------------------------------------------------------------------
+INFO 2026-01-22 15:03:47,412 middleware 11320 16104 API REQUEST: GET /api/tickets/
+INFO 2026-01-22 15:03:47,413 middleware 11320 16104   User: Anonymous (ID: None)
+INFO 2026-01-22 15:03:47,414 middleware 11320 16104   Email: N/A
+INFO 2026-01-22 15:03:47,415 middleware 11320 16104   Permissions: 0 permissions
+INFO 2026-01-22 15:03:47,416 middleware 11320 16104   IP Address: 127.0.0.1
+INFO 2026-01-22 15:03:47,417 middleware 11320 16104   User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Sa
+INFO 2026-01-22 15:03:47,499 middleware 11320 16104   User: Anonymous | Response Size: 431 bytes
+INFO 2026-01-22 15:03:47,539 middleware 11320 16104 --------------------------------------------------------------------------------
+INFO 2026-01-22 15:03:47,550 middleware 11320 16104 API REQUEST: GET /api/tickets/
+INFO 2026-01-22 15:03:47,550 middleware 11320 16104   User: Anonymous (ID: None)
+INFO 2026-01-22 15:03:47,551 middleware 11320 16104   Email: N/A
+INFO 2026-01-22 15:03:47,553 middleware 11320 16104   Permissions: 0 permissions
+INFO 2026-01-22 15:03:47,609 middleware 11320 16104   IP Address: 127.0.0.1
+INFO 2026-01-22 15:03:47,609 middleware 11320 16104   User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Sa
+INFO 2026-01-22 15:03:49,260 middleware 11320 16104   User: Anonymous | Response Size: 431 bytes
+INFO 2026-01-22 15:03:49,263 middleware 11320 16104 --------------------------------------------------------------------------------
+INFO 2026-01-22 15:03:58,320 middleware 11320 13712 API REQUEST: GET /api/tickets/
+INFO 2026-01-22 15:03:58,321 middleware 11320 13712   User: Anonymous (ID: None)
+INFO 2026-01-22 15:03:58,322 middleware 11320 13712   Email: N/A
+INFO 2026-01-22 15:03:58,322 middleware 11320 13712   Permissions: 0 permissions
+INFO 2026-01-22 15:03:58,323 middleware 11320 13712   IP Address: 127.0.0.1
+INFO 2026-01-22 15:03:58,323 middleware 11320 13712   User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Sa
+INFO 2026-01-22 15:03:58,700 middleware 11320 13712   User: Anonymous | Response Size: 431 bytes
+INFO 2026-01-22 15:03:58,702 middleware 11320 13712 --------------------------------------------------------------------------------
+INFO 2026-01-22 15:03:58,708 middleware 11320 13712 API REQUEST: GET /api/tickets/
+INFO 2026-01-22 15:03:58,709 middleware 11320 13712   User: Anonymous (ID: None)
+INFO 2026-01-22 15:03:58,710 middleware 11320 13712   Email: N/A
+INFO 2026-01-22 15:03:58,710 middleware 11320 13712   Permissions: 0 permissions
+INFO 2026-01-22 15:03:58,711 middleware 11320 13712   IP Address: 127.0.0.1
+INFO 2026-01-22 15:03:58,711 middleware 11320 13712   User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Sa
+INFO 2026-01-22 15:03:58,802 middleware 11320 13712   User: Anonymous | Response Size: 431 bytes
+INFO 2026-01-22 15:03:58,808 middleware 11320 13712 --------------------------------------------------------------------------------
+INFO 2026-01-22 15:04:46,346 middleware 11320 14732 API REQUEST: GET /api/tickets/
+INFO 2026-01-22 15:04:46,348 middleware 11320 14732   User: Anonymous (ID: None)
+INFO 2026-01-22 15:04:46,348 middleware 11320 14732   Email: N/A
+INFO 2026-01-22 15:04:46,349 middleware 11320 14732   Permissions: 0 permissions
+INFO 2026-01-22 15:04:46,350 middleware 11320 14732   IP Address: 127.0.0.1
+INFO 2026-01-22 15:04:46,350 middleware 11320 14732   User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Sa
+INFO 2026-01-22 15:04:46,549 middleware 11320 14732   User: Anonymous | Response Size: 431 bytes
+INFO 2026-01-22 15:04:46,551 middleware 11320 14732 --------------------------------------------------------------------------------
+INFO 2026-01-22 15:04:46,599 middleware 11320 14732 API REQUEST: GET /api/tickets/
+INFO 2026-01-22 15:04:46,602 middleware 11320 14732   User: Anonymous (ID: None)
+INFO 2026-01-22 15:04:46,642 middleware 11320 14732   Email: N/A
+INFO 2026-01-22 15:04:46,643 middleware 11320 14732   Permissions: 0 permissions
+INFO 2026-01-22 15:04:46,751 middleware 11320 14732   IP Address: 127.0.0.1
+INFO 2026-01-22 15:04:46,756 middleware 11320 14732   User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Sa
+INFO 2026-01-22 15:04:47,046 middleware 11320 14732   User: Anonymous | Response Size: 431 bytes
+INFO 2026-01-22 15:04:47,048 middleware 11320 14732 --------------------------------------------------------------------------------
+INFO 2026-01-22 15:05:59,645 middleware 11320 4640 API REQUEST: GET /api/tickets/
+INFO 2026-01-22 15:05:59,646 middleware 11320 4640   User: Anonymous (ID: None)
+INFO 2026-01-22 15:05:59,646 middleware 11320 4640   Email: N/A
+INFO 2026-01-22 15:05:59,647 middleware 11320 4640   Permissions: 0 permissions
+INFO 2026-01-22 15:05:59,647 middleware 11320 4640   IP Address: 127.0.0.1
+INFO 2026-01-22 15:05:59,648 middleware 11320 4640   User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Sa
+INFO 2026-01-22 15:05:59,838 middleware 11320 4640   User: Anonymous | Response Size: 431 bytes
+INFO 2026-01-22 15:05:59,841 middleware 11320 4640 --------------------------------------------------------------------------------
+INFO 2026-01-22 15:05:59,850 middleware 11320 4640 API REQUEST: GET /api/tickets/
+INFO 2026-01-22 15:05:59,876 middleware 11320 4640   User: Anonymous (ID: None)
+INFO 2026-01-22 15:05:59,886 middleware 11320 4640   Email: N/A
+INFO 2026-01-22 15:05:59,886 middleware 11320 4640   Permissions: 0 permissions
+INFO 2026-01-22 15:05:59,890 middleware 11320 4640   IP Address: 127.0.0.1
+INFO 2026-01-22 15:05:59,891 middleware 11320 4640   User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Sa
+INFO 2026-01-22 15:06:00,173 middleware 11320 4640   User: Anonymous | Response Size: 431 bytes
+INFO 2026-01-22 15:06:00,174 middleware 11320 4640 --------------------------------------------------------------------------------
+INFO 2026-01-22 15:06:01,181 middleware 11320 8580 API REQUEST: GET /api/tickets/
+INFO 2026-01-22 15:06:01,181 middleware 11320 8580   User: Anonymous (ID: None)
+INFO 2026-01-22 15:06:01,182 middleware 11320 8580   Email: N/A
+INFO 2026-01-22 15:06:01,182 middleware 11320 8580   Permissions: 0 permissions
+INFO 2026-01-22 15:06:01,183 middleware 11320 8580   IP Address: 127.0.0.1
+INFO 2026-01-22 15:06:01,183 middleware 11320 8580   User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Sa
+INFO 2026-01-22 15:06:01,245 middleware 11320 8580   User: Anonymous | Response Size: 431 bytes
+INFO 2026-01-22 15:06:01,246 middleware 11320 8580 --------------------------------------------------------------------------------
+INFO 2026-01-22 15:06:01,254 middleware 11320 8580 API REQUEST: GET /api/tickets/
+INFO 2026-01-22 15:06:01,282 middleware 11320 8580   User: Anonymous (ID: None)
+INFO 2026-01-22 15:06:01,292 middleware 11320 8580   Email: N/A
+INFO 2026-01-22 15:06:01,292 middleware 11320 8580   Permissions: 0 permissions
+INFO 2026-01-22 15:06:01,292 middleware 11320 8580   IP Address: 127.0.0.1
+INFO 2026-01-22 15:06:01,292 middleware 11320 8580   User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Sa
+INFO 2026-01-22 15:06:01,730 middleware 11320 11032 API REQUEST: GET /api/tickets/
+INFO 2026-01-22 15:06:01,827 middleware 11320 8580   User: Anonymous | Response Size: 431 bytes
+INFO 2026-01-22 15:06:01,835 middleware 11320 11032   User: Anonymous (ID: None)
+INFO 2026-01-22 15:06:01,836 middleware 11320 8580 --------------------------------------------------------------------------------
+INFO 2026-01-22 15:06:01,836 middleware 11320 11032   Email: N/A
+INFO 2026-01-22 15:06:01,840 middleware 11320 11032   Permissions: 0 permissions
+INFO 2026-01-22 15:06:01,841 middleware 11320 11032   IP Address: 127.0.0.1
+INFO 2026-01-22 15:06:01,841 middleware 11320 11032   User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Sa
+INFO 2026-01-22 15:06:02,022 middleware 11320 11032   User: Anonymous | Response Size: 431 bytes
+INFO 2026-01-22 15:06:02,024 middleware 11320 11032 --------------------------------------------------------------------------------
+INFO 2026-01-22 15:06:02,102 middleware 11320 11032 API REQUEST: GET /api/tickets/
+INFO 2026-01-22 15:06:02,104 middleware 11320 11032   User: Anonymous (ID: None)
+INFO 2026-01-22 15:06:02,105 middleware 11320 11032   Email: N/A
+INFO 2026-01-22 15:06:02,106 middleware 11320 11032   Permissions: 0 permissions
+INFO 2026-01-22 15:06:02,107 middleware 11320 11032   IP Address: 127.0.0.1
+INFO 2026-01-22 15:06:02,109 middleware 11320 11032   User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Sa
+INFO 2026-01-22 15:06:02,256 middleware 11320 11032   User: Anonymous | Response Size: 431 bytes
+INFO 2026-01-22 15:06:02,259 middleware 11320 11032 --------------------------------------------------------------------------------
+INFO 2026-01-22 15:06:02,584 middleware 11320 11032 API REQUEST: GET /api/tickets/
+INFO 2026-01-22 15:06:02,591 middleware 11320 11032   User: Anonymous (ID: None)
+INFO 2026-01-22 15:06:02,591 middleware 11320 11032   Email: N/A
+INFO 2026-01-22 15:06:02,592 middleware 11320 11032   Permissions: 0 permissions
+INFO 2026-01-22 15:06:02,592 middleware 11320 11032   IP Address: 127.0.0.1
+INFO 2026-01-22 15:06:02,593 middleware 11320 11032   User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Sa
+INFO 2026-01-22 15:06:02,751 middleware 11320 11032   User: Anonymous | Response Size: 431 bytes
+INFO 2026-01-22 15:06:02,752 middleware 11320 11032 --------------------------------------------------------------------------------
+INFO 2026-01-22 15:06:02,780 middleware 11320 11032 API REQUEST: GET /api/tickets/
+INFO 2026-01-22 15:06:02,791 middleware 11320 11032   User: Anonymous (ID: None)
+INFO 2026-01-22 15:06:02,793 middleware 11320 11032   Email: N/A
+INFO 2026-01-22 15:06:02,794 middleware 11320 11032   Permissions: 0 permissions
+INFO 2026-01-22 15:06:02,795 middleware 11320 11032   IP Address: 127.0.0.1
+INFO 2026-01-22 15:06:02,797 middleware 11320 11032   User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Sa
+INFO 2026-01-22 15:06:02,925 middleware 11320 11032   User: Anonymous | Response Size: 431 bytes
+INFO 2026-01-22 15:06:02,927 middleware 11320 11032 --------------------------------------------------------------------------------
+INFO 2026-01-22 15:12:22,901 middleware 15868 15016 API REQUEST: GET /api/tickets/
+INFO 2026-01-22 15:12:22,906 middleware 15868 15016   User: Anonymous (ID: None)
+INFO 2026-01-22 15:12:22,913 middleware 15868 15016   Email: N/A
+INFO 2026-01-22 15:12:22,914 middleware 15868 15016   Permissions: 0 permissions
+INFO 2026-01-22 15:12:22,917 middleware 15868 15016   IP Address: 127.0.0.1
+INFO 2026-01-22 15:12:22,956 middleware 15868 15016   User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Sa
+INFO 2026-01-22 15:12:24,093 middleware 15868 15016   User: Anonymous | Response Size: 431 bytes
+INFO 2026-01-22 15:12:24,094 middleware 15868 15016 --------------------------------------------------------------------------------
+INFO 2026-01-22 15:12:24,355 middleware 15868 15016 API REQUEST: GET /api/tickets/
+INFO 2026-01-22 15:12:24,357 middleware 15868 15016   User: Anonymous (ID: None)
+INFO 2026-01-22 15:12:24,359 middleware 15868 15016   Email: N/A
+INFO 2026-01-22 15:12:24,359 middleware 15868 15016   Permissions: 0 permissions
+INFO 2026-01-22 15:12:24,360 middleware 15868 15016   IP Address: 127.0.0.1
+INFO 2026-01-22 15:12:24,361 middleware 15868 15016   User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Sa
+INFO 2026-01-22 15:12:24,816 middleware 15868 15016   User: Anonymous | Response Size: 431 bytes
+INFO 2026-01-22 15:12:24,817 middleware 15868 15016 --------------------------------------------------------------------------------
+INFO 2026-01-22 15:12:31,140 middleware 15868 18608 API REQUEST: GET /api/tickets/
+INFO 2026-01-22 15:12:31,141 middleware 15868 18608   User: Anonymous (ID: None)
+INFO 2026-01-22 15:12:31,142 middleware 15868 18608   Email: N/A
+INFO 2026-01-22 15:12:31,142 middleware 15868 18608   Permissions: 0 permissions
+INFO 2026-01-22 15:12:31,143 middleware 15868 18608   IP Address: 127.0.0.1
+INFO 2026-01-22 15:12:31,143 middleware 15868 18608   User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Sa
+INFO 2026-01-22 15:12:31,475 middleware 15868 18608   User: Anonymous | Response Size: 431 bytes
+INFO 2026-01-22 15:12:31,485 middleware 15868 18608 --------------------------------------------------------------------------------
+INFO 2026-01-22 15:12:31,527 middleware 15868 18608 API REQUEST: GET /api/tickets/
+INFO 2026-01-22 15:12:31,561 middleware 15868 18608   User: Anonymous (ID: None)
+INFO 2026-01-22 15:12:31,563 middleware 15868 18608   Email: N/A
+INFO 2026-01-22 15:12:31,564 middleware 15868 18608   Permissions: 0 permissions
+INFO 2026-01-22 15:12:31,585 middleware 15868 18608   IP Address: 127.0.0.1
+INFO 2026-01-22 15:12:31,596 middleware 15868 18608   User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Sa
+INFO 2026-01-22 15:12:32,225 middleware 15868 18608   User: Anonymous | Response Size: 431 bytes
+INFO 2026-01-22 15:12:32,234 middleware 15868 18608 --------------------------------------------------------------------------------
+INFO 2026-01-22 15:14:31,196 middleware 15868 11800 API REQUEST: GET /api/tickets/
+INFO 2026-01-22 15:14:31,204 middleware 15868 11800   User: Anonymous (ID: None)
+INFO 2026-01-22 15:14:31,205 middleware 15868 11800   Email: N/A
+INFO 2026-01-22 15:14:31,205 middleware 15868 11800   Permissions: 0 permissions
+INFO 2026-01-22 15:14:31,206 middleware 15868 11800   IP Address: 127.0.0.1
+INFO 2026-01-22 15:14:31,207 middleware 15868 11800   User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Sa
+INFO 2026-01-22 15:14:31,389 middleware 15868 11800   User: Anonymous | Response Size: 577 bytes
+INFO 2026-01-22 15:14:31,390 middleware 15868 11800 --------------------------------------------------------------------------------
+INFO 2026-01-22 15:14:31,397 middleware 15868 11800 API REQUEST: GET /api/tickets/
+INFO 2026-01-22 15:14:31,433 middleware 15868 11800   User: Anonymous (ID: None)
+INFO 2026-01-22 15:14:31,435 middleware 15868 11800   Email: N/A
+INFO 2026-01-22 15:14:31,437 middleware 15868 11800   Permissions: 0 permissions
+INFO 2026-01-22 15:14:31,438 middleware 15868 11800   IP Address: 127.0.0.1
+INFO 2026-01-22 15:14:31,439 middleware 15868 11800   User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Sa
+INFO 2026-01-22 15:14:31,956 middleware 15868 11800   User: Anonymous | Response Size: 577 bytes
+INFO 2026-01-22 15:14:31,958 middleware 15868 11800 --------------------------------------------------------------------------------
