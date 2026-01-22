@@ -425,3 +425,57 @@ INFO 2026-01-22 15:14:31,438 middleware 15868 11800   IP Address: 127.0.0.1
 INFO 2026-01-22 15:14:31,439 middleware 15868 11800   User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Sa
 INFO 2026-01-22 15:14:31,956 middleware 15868 11800   User: Anonymous | Response Size: 577 bytes
 INFO 2026-01-22 15:14:31,958 middleware 15868 11800 --------------------------------------------------------------------------------
+INFO 2026-01-22 17:04:16,618 middleware 14920 19468 API REQUEST: POST /api/auth/login/
+INFO 2026-01-22 17:04:16,618 middleware 14920 19468   User: Anonymous (ID: None)
+INFO 2026-01-22 17:04:16,619 middleware 14920 19468   Email: N/A
+INFO 2026-01-22 17:04:16,619 middleware 14920 19468   Permissions: 0 permissions
+INFO 2026-01-22 17:04:16,619 middleware 14920 19468   IP Address: 127.0.0.1
+INFO 2026-01-22 17:04:16,619 middleware 14920 19468   User Agent: Unknown
+INFO 2026-01-22 17:04:16,644 middleware 14920 19468   User: Anonymous | Response Size: 81 bytes
+WARNING 2026-01-22 17:04:16,644 middleware 14920 19468   Error Response: {"error":"Login disabled","message":"Use HRMS login. Ticketing trusts JWT only."}...
+INFO 2026-01-22 17:04:16,644 middleware 14920 19468 --------------------------------------------------------------------------------
+INFO 2026-01-22 17:04:17,147 middleware 14920 19468 API REQUEST: GET /api/auth/admin-test/
+INFO 2026-01-22 17:04:17,147 middleware 14920 19468   User: Anonymous (ID: None)
+INFO 2026-01-22 17:04:17,147 middleware 14920 19468   Email: N/A
+INFO 2026-01-22 17:04:17,147 middleware 14920 19468   Permissions: 0 permissions
+INFO 2026-01-22 17:04:17,147 middleware 14920 19468   IP Address: 127.0.0.1
+INFO 2026-01-22 17:04:17,147 middleware 14920 19468   User Agent: Unknown
+INFO 2026-01-22 17:04:17,152 middleware 14920 19468   User: Anonymous | Response Size: 183 bytes
+WARNING 2026-01-22 17:04:17,152 middleware 14920 19468   Error Response: {"detail":"Given token not valid for any token type","code":"token_not_valid","messages":[{"token_class":"AccessToken","token_type":"access","message":"Token is invalid or expired"}]}...
+INFO 2026-01-22 17:04:17,152 middleware 14920 19468 --------------------------------------------------------------------------------
+INFO 2026-01-22 17:04:17,395 middleware 14920 19468 API REQUEST: GET /api/auth/admin-test/
+INFO 2026-01-22 17:04:17,396 middleware 14920 19468   User: Anonymous (ID: None)
+INFO 2026-01-22 17:04:17,396 middleware 14920 19468   Email: N/A
+INFO 2026-01-22 17:04:17,396 middleware 14920 19468   Permissions: 0 permissions
+INFO 2026-01-22 17:04:17,396 middleware 14920 19468   IP Address: 127.0.0.1
+INFO 2026-01-22 17:04:17,396 middleware 14920 19468   User Agent: Unknown
+INFO 2026-01-22 17:04:17,401 middleware 14920 19468   User: Anonymous | Response Size: 183 bytes
+WARNING 2026-01-22 17:04:17,401 middleware 14920 19468   Error Response: {"detail":"Given token not valid for any token type","code":"token_not_valid","messages":[{"token_class":"AccessToken","token_type":"access","message":"Token is invalid or expired"}]}...
+INFO 2026-01-22 17:04:17,401 middleware 14920 19468 --------------------------------------------------------------------------------
+INFO 2026-01-22 17:20:47,587 middleware 14792 28416 API REQUEST: POST /api/auth/login/
+INFO 2026-01-22 17:20:47,587 middleware 14792 28416   User: Anonymous (ID: None)
+INFO 2026-01-22 17:20:47,589 middleware 14792 28416   Email: N/A
+INFO 2026-01-22 17:20:47,589 middleware 14792 28416   Permissions: 0 permissions
+INFO 2026-01-22 17:20:47,589 middleware 14792 28416   IP Address: 127.0.0.1
+INFO 2026-01-22 17:20:47,589 middleware 14792 28416   User Agent: Unknown
+INFO 2026-01-22 17:20:47,600 middleware 14792 28416   User: Anonymous | Response Size: 81 bytes
+WARNING 2026-01-22 17:20:47,600 middleware 14792 28416   Error Response: {"error":"Login disabled","message":"Use HRMS login. Ticketing trusts JWT only."}...
+INFO 2026-01-22 17:20:47,600 middleware 14792 28416 --------------------------------------------------------------------------------
+INFO 2026-01-22 17:20:48,074 middleware 14792 28416 API REQUEST: GET /api/auth/admin-test/
+INFO 2026-01-22 17:20:48,075 middleware 14792 28416   User: Anonymous (ID: None)
+INFO 2026-01-22 17:20:48,075 middleware 14792 28416   Email: N/A
+INFO 2026-01-22 17:20:48,075 middleware 14792 28416   Permissions: 0 permissions
+INFO 2026-01-22 17:20:48,075 middleware 14792 28416   IP Address: 127.0.0.1
+INFO 2026-01-22 17:20:48,075 middleware 14792 28416   User Agent: Unknown
+INFO 2026-01-22 17:20:48,080 middleware 14792 28416   User: Anonymous | Response Size: 183 bytes
+WARNING 2026-01-22 17:20:48,080 middleware 14792 28416   Error Response: {"detail":"Given token not valid for any token type","code":"token_not_valid","messages":[{"token_class":"AccessToken","token_type":"access","message":"Token is invalid or expired"}]}...
+INFO 2026-01-22 17:20:48,080 middleware 14792 28416 --------------------------------------------------------------------------------
+INFO 2026-01-22 17:20:48,315 middleware 14792 28416 API REQUEST: GET /api/auth/admin-test/
+INFO 2026-01-22 17:20:48,316 middleware 14792 28416   User: Anonymous (ID: None)
+INFO 2026-01-22 17:20:48,316 middleware 14792 28416   Email: N/A
+INFO 2026-01-22 17:20:48,316 middleware 14792 28416   Permissions: 0 permissions
+INFO 2026-01-22 17:20:48,316 middleware 14792 28416   IP Address: 127.0.0.1
+INFO 2026-01-22 17:20:48,316 middleware 14792 28416   User Agent: Unknown
+INFO 2026-01-22 17:20:48,321 middleware 14792 28416   User: Anonymous | Response Size: 183 bytes
+WARNING 2026-01-22 17:20:48,321 middleware 14792 28416   Error Response: {"detail":"Given token not valid for any token type","code":"token_not_valid","messages":[{"token_class":"AccessToken","token_type":"access","message":"Token is invalid or expired"}]}...
+INFO 2026-01-22 17:20:48,321 middleware 14792 28416 --------------------------------------------------------------------------------
