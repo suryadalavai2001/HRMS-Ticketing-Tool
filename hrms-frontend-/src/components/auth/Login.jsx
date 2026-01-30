@@ -6,7 +6,7 @@ import '../../styles/login.css';
 import logoImage from './logo.jpeg';
 
 const Login = () => {
-  const [email, setEmail] = useState('');
+  const [username, setUsername] = useState('');
   const [password, setPassword] = useState('');
   const [loading, setLoading] = useState(false);
   const { login } = useContext(AuthContext);
@@ -15,14 +15,14 @@ const Login = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
 
-    if (!email || !password) {
+    if (!username || !password) {
       toast.error('Please enter email and password');
       return;
     }
 
     setLoading(true);
     try {
-      await login(email, password);
+      await login(username, password);
       toast.success('Login successful!');
       navigate('/dashboard');
     } catch (error) {
@@ -36,21 +36,21 @@ const Login = () => {
     <div className="login-page">
       <div className="login-card">
         <div className="login-header">
-              <img src={logoImage} alt="ConZura HRMS" className="login-logo" width = "150px"/>
-              <br></br> 
-              <br></br>
-              <h1>Login</h1>
-            </div>
+          <img src={logoImage} alt="ConZura HRMS" className="login-logo" width="150px" />
+          <br></br>
+          <br></br>
+          <h1>Login</h1>
+        </div>
 
         <form onSubmit={handleSubmit}>
           <div className="form-group">
-            <label htmlFor="email">Email Address</label>
+            <label htmlFor="username">Username</label>
             <input
-              type="email"
-              id="email"
-              placeholder="Enter your email"
-              value={email}
-              onChange={(e) => setEmail(e.target.value)}
+              type="text"
+              id="username"
+              placeholder="Enter your username"
+              value={username}
+              onChange={(e) => setUsername(e.target.value)}
               required
             />
           </div>

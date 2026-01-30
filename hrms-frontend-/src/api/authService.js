@@ -3,17 +3,17 @@ import axios from 'axios';
 const API_URL = process.env.REACT_APP_API_URL || 'http://localhost:8000';
 
 const authService = {
-  login: async (email, password) => {
-    const response = await axios.post(`${API_URL}/api/token/`, {
-      email,
+  login: async (username, password) => {
+    const response = await axios.post(`${API_URL}/api/auth/login/`, {
+      username,
       password,
     });
-    
+
     if (response.data.access) {
       localStorage.setItem('access_token', response.data.access);
       localStorage.setItem('refresh_token', response.data.refresh);
     }
-    
+
     return response.data;
   },
 
@@ -34,4 +34,3 @@ const authService = {
 };
 
 export default authService;
- 

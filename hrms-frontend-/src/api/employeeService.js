@@ -108,7 +108,7 @@ import axiosInstance from './axiosConfig';
 const employeeService = {
   // Get current user profile
   getMyProfile: async () => {
-    const response = await axiosInstance.get('/profile/');
+    const response = await axiosInstance.get('/auth/profile/');
     return response.data;
   },
 
